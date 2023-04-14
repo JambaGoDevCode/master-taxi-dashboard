@@ -1,5 +1,7 @@
 # Resposive Admin Dashboard Clone React App
 
+![Screen Shot 2023-04-14 at 2 47 51 PM](https://user-images.githubusercontent.com/54918856/232061618-f6a886c8-1943-4394-b95d-c05bdd9d943b.png)
+
 
 ## Available Scripts
 
